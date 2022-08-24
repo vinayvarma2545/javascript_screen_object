@@ -1,0 +1,1 @@
+document.getElementById("bag").innerHTML="The width of screen is" + screen.width;
